@@ -1696,7 +1696,7 @@
 // @section geometry
 
 // The size of the printable area
-#define X_BED_SIZE 220 // Cannot move more to right
+#define X_BED_SIZE 215 // Cannot move more to right
 #define Y_BED_SIZE 220 // 220 + 15 = 235 (default E3 range)
 
 // Travel limits (linear=mm, rotational=°) after homing, corresponding to endstop positions.
